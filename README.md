@@ -1,8 +1,8 @@
 # vityarthi
 
-BMI Calculator
+**BMI Calculator**
 
-Overview:
+**Overview:**
 
 
 The BMI Calculator is a simple Python project that calculates the Body Mass Index (BMI) based on a user’s height and weight.
@@ -11,8 +11,7 @@ This project is perfect for beginners learning Python basics like input handling
 
 
 
-Features:
-
+**Features:**
 	•	Takes user input for weight (in kg) and height (in meters or cm).
   
 	•	Calculates BMI using:
@@ -27,7 +26,7 @@ BMI = weight / (height × height)
 
   
 
-Technologies / Tools Used:
+**Technologies / Tools Used:**
 
 	•	Python 3.x
   
@@ -37,7 +36,7 @@ Technologies / Tools Used:
 
 
 
- How to Install & Run the Project
+**How to Install & Run the Project**
 
 
 
@@ -52,7 +51,7 @@ Technologies / Tools Used:
 
 
 
-Instructions for Testing:
+**Instructions for Testing:**
 
 You can test the BMI Calculator by trying different sets of values:
 
@@ -91,7 +90,7 @@ Enter height in cm (like 165)
 
 
 
-📸 Screenshots
+**Screenshots**
 <img width="375" height="1013" alt="Screenshot 2025-11-23 191221" src="https://github.com/user-attachments/assets/67712867-6466-4d1e-b78a-fac56963efbd" />
 
 
