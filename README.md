@@ -45,7 +45,7 @@ Prerequisites
 Python 3.x: Ensure you have Python installed on your system. You can verify this by opening your command line or terminal and typing:
 
 python --version
-# OR
+#OR
 python3 --version
 
 
@@ -79,7 +79,7 @@ Execute the File:
 Run the script directly from the terminal using the Python interpreter:
 
 python bmi_calculator.py
-# OR, if the 'python' command refers to an older version:
+#OR, if the 'python' command refers to an older version:
 python3 bmi_calculator.py
 
 
